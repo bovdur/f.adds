@@ -20,11 +20,18 @@
 127.0.0.1 certificate.mobile.yandex.net
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 banners.mobile.yandex.net
-# 127.0.0.1 tc.mobile.yandex.net
-# 127.0.0.1 spdy3.mob.maps.yandex.net
 127.0.0.1 tc.taxitax.org
 127.0.0.1 tc.rostaxi.org
 # 127.0.0.1 spdy3-proxy.maps.yandex.net
+# 127.0.0.1 tc.mobile.yandex.net
+# 127.0.0.1 spdy3.mob.maps.yandex.net
+# 127.0.0.1 mobileproxy.passport.yandex.net
+
+# [Facebook shit]
+127.0.0.1 api.instabug.com
+127.0.0.1 edge-mqtt.facebook.com
+127.0.0.1 mqtt-mini.facebook.com
+127.0.0.1 graph.instagram.com
 
 # [Other shit]
 127.0.0.1 reports.crashlytics.com
@@ -112,10 +119,7 @@
 127.0.0.1 cc-api-storage.adobe.io
 127.0.0.1 adobeconsumer.sc.omtrdc.net
 127.0.0.1 mboxedge26.tt.omtrdc.net
-127.0.0.1 api.instabug.com
-127.0.0.1 edge-mqtt.facebook.com
-127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 rq0inxa3zi.execute-api.eu-west-1.amazonaws.com
 127.0.0.1 decide.mixpanel.com
-127.0.0.1 graph.instagram.com
+127.0.0.1 vivino.helpshift.com
 # END
