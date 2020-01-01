@@ -21,10 +21,10 @@
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 banners.mobile.yandex.net
 # 127.0.0.1 tc.mobile.yandex.net
-127.0.0.1 spdy3.mob.maps.yandex.net
+# 127.0.0.1 spdy3.mob.maps.yandex.net
 127.0.0.1 tc.taxitax.org
 127.0.0.1 tc.rostaxi.org
-127.0.0.1 spdy3-proxy.maps.yandex.net
+# 127.0.0.1 spdy3-proxy.maps.yandex.net
 
 # [Other shit]
 127.0.0.1 reports.crashlytics.com
