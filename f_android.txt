@@ -1,5 +1,6 @@
 # Hosts for Android (mostly for RU region)
-# Original: https://pastebin.com/raw/aVsgNW9J
+# https://raw.githubusercontent.com/bovdur/f.adds/master/f_android.txt
+# Original: https://pastebin.com/raw/aVsgNW9J 
 
 # whitelist (idk how to backup this shit)
 # *.discordapp.com
