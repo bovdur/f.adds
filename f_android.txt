@@ -123,4 +123,5 @@
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 vivino.helpshift.com
 127.0.0.1 webview.myfitnesspal.com
+127.0.0.1 e-10250.adzerk.net
 # END
