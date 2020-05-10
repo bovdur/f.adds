@@ -122,4 +122,5 @@
 127.0.0.1 rq0inxa3zi.execute-api.eu-west-1.amazonaws.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 vivino.helpshift.com
+127.0.0.1 webview.myfitnesspal.com
 # END
