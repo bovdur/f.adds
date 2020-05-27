@@ -6,6 +6,9 @@
 # *.discordapp.com
 # discordapp.com
 # mobileproxy.passport.yandex.net
+# s.youtube.com
+# *s.youtube.com
+# *.s.youtube.com
 
 # START
 
