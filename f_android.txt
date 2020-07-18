@@ -9,6 +9,8 @@
 # s.youtube.com
 # *s.youtube.com
 # *.s.youtube.com
+# i.scdn.co
+# *.scdn.co
 
 # START
 
@@ -29,6 +31,7 @@
 # 127.0.0.1 tc.mobile.yandex.net
 # 127.0.0.1 spdy3.mob.maps.yandex.net
 # 127.0.0.1 mobileproxy.passport.yandex.net
+127.0.0.1 aflt.market.yandex.ru
 
 # [Facebook shit]
 127.0.0.1 api.instabug.com
