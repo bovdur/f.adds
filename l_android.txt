@@ -1,0 +1,15 @@
+# Whitelist Hosts for Android (mostly for RU region)
+# !
+
+# START
+
+*.discordapp.com
+discordapp.com
+mobileproxy.passport.yandex.net
+s.youtube.com
+*s.youtube.com
+*.s.youtube.com
+i.scdn.co
+*.scdn.co
+
+# END
