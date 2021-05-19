@@ -1,5 +1,5 @@
 # Whitelist Hosts for Android (mostly for RU region)
-# !
+# https://raw.githubusercontent.com/bovdur/f.adds/master/l_android.txt
 
 # START
 
