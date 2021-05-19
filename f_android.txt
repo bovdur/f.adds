@@ -1,16 +1,6 @@
-# Hosts for Android (mostly for RU region)
+# Blacklist Hosts for Android (mostly for RU region)
 # https://raw.githubusercontent.com/bovdur/f.adds/master/f_android.txt
 # Original: https://pastebin.com/raw/aVsgNW9J 
-
-# whitelist (idk how to backup this shit)
-# *.discordapp.com
-# discordapp.com
-# mobileproxy.passport.yandex.net
-# s.youtube.com
-# *s.youtube.com
-# *.s.youtube.com
-# i.scdn.co
-# *.scdn.co
 
 # START
 
