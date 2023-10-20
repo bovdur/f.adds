@@ -1,0 +1,10 @@
+! Yandex
+ya.ru##.simple-popup__overlay_shown.simple-popup__overlay_theme_modal.simple-popup__overlay
+ya.ru##.dist-overlay__content_button-theme_light.dist-overlay__content
+ya.ru##.simple-popup__close
+
+! Youtube
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
